@@ -1,4 +1,4 @@
-# Fashion-MNIST-Modify-MNIST-2-Hidden-Layer-Implementation
+# Fashion-MNIST 2 Hidden Layer Neural Network Implementation
 UCLA Master of Applied Economics Econ 413 Assignment
 
 - Instead of (classic) MNIST we will use Fashion MNIST Data Set available here:
